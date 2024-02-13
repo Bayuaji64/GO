@@ -1,0 +1,3 @@
+DELETE http://localhost:3001/events/5/register
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkJheXVhamkyQGFyaW5hbmRhLmNvbSIsImV4cCI6MTcwNzgzODU5MCwidXNlcklkIjoyfQ.pX_CRhCa7Wag1ZmB6GBYrvaO5lvVgM4IzXk7Jf0HNRg
+

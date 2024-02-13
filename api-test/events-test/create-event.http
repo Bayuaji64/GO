@@ -1,9 +1,9 @@
 POST http://localhost:3001/events
 content-type: application/json
-authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkJheXVhamlAYXJpbmFuZGEuY29tIiwiZXhwIjoxNzA3ODI5OTUxLCJ1c2VySWQiOjF9.fUwZZxH9JRr28OXK7BF4NoPxUQ_XNh86-ouffP3UljA
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkJheXVhamlAYXJpbmFuZGEuY29tIiwiZXhwIjoxNzA3ODM4NDc5LCJ1c2VySWQiOjF9.aHC7vzUBywDnS-7qnAVbsEFgL412sf19gDk5pXbcEVg
 
 {
-  "name"  :"Test event 4",
+  "name"  :"Test event 5",
   "description":" A test event",
   "location":"A test location",
   "dateTime":"2024-02-12T06:34:24.872Z"
