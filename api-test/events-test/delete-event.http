@@ -1,1 +1,2 @@
 DELETE   http://localhost:3001/events/5
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkJheXVhamlAYXJpbmFuZGEuY29tIiwiZXhwIjoxNzA3ODI5OTUxLCJ1c2VySWQiOjF9.fUwZZxH9JRr28OXK7BF4NoPxUQ_XNh86-ouffP3UljA

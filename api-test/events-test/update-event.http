@@ -1,8 +1,9 @@
-PUT  http://localhost:3001/events/2
+PUT  http://localhost:3001/events/4
 content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkJheXVhamlAYXJpbmFuZGEuY29tIiwiZXhwIjoxNzA3ODI5OTUxLCJ1c2VySWQiOjF9.fUwZZxH9JRr28OXK7BF4NoPxUQ_XNh86-ouffP3UljA
 
 {
-  "name"  :"Update Event 1",
+  "name"  :"Update Event CEK 3",
   "description":" Another event 1",
   "location":"A test location Update",
   "dateTime":"2024-02-13T06:34:24.872Z"
