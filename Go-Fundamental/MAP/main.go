@@ -1,0 +1,33 @@
+package main
+
+import "fmt"
+
+func main() {
+
+	colors := map[string]string{
+
+		"red":   "#ff0000",
+		"green": "#4bf745",
+		"white": "#ffffff",
+	}
+
+	// colors := make(map[int]string)
+
+	// colors[10] = "#ffffff"
+
+	// delete(colors, 10)
+
+	// fmt.Println(colors)
+
+	printMap(colors)
+}
+
+func printMap(c map[string]string) {
+
+	for c, v := range c {
+
+		fmt.Println("Hex code for ", c, "is ", v)
+
+	}
+
+}
